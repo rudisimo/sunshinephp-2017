@@ -14,7 +14,7 @@ Lunch Keynote: The New Revolution
 
 Tales from the Crypt: Cryptography Primer
 
-[MySQL: Analysis, understanding and optimization of queries][1]
+[MySQL: Analysis, understanding and optimization of queries](notes/mysql-analysis-understanding-and-optimization-of-queries.md)
 
 
 ### Day 2
@@ -32,4 +32,18 @@ Dockerize your unit tests for faster feeback
 Closing Keynote: Accidental Professional
 
 
-[1]: notes/mysql-analysis-understanding-and-optimization-of-queries.md
+## Links
+
+[SunshinePHP 2016][1]  
+[Joind.in Event Page][2]  
+
+
+## Who am I?
+
+[Rodolfo Puig][3] &raquo; [@rudisimo][4]  
+
+
+[1]: http://2017.sunshinephp.com/
+[2]: https://joind.in/event/sunshinephp-2017/
+[3]: https://about.me/rudisimo
+[4]: https://twitter.com/rudisimo
