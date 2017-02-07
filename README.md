@@ -21,20 +21,20 @@ Tales from the Crypt: Cryptography Primer
 
 Opening Keynote: A World Without PHP
 
-Time Management For Grumpy Programmers
+[Time Management For Grumpy Programmers](notes/time-management-for-grumpy-programmers.md)
 
-Console Applications: Automate your life away
+Lunch Keynote: Using Open Source for Fun and Profit
 
-Employing CQRS and Event Sourcing to Build and MVP
+[Containing Chaos with Kubernetes](notes/containing-chaos-with-kubernetes.md)
 
-Dockerize your unit tests for faster feeback
+[Dockerize your unit tests for faster feeback](notes/dockerize-your-unit-tests-for-faster-feedback.md)
 
 Closing Keynote: Accidental Professional
 
 
 ## Links
 
-[SunshinePHP 2016][1]  
+[SunshinePHP 2017][1]  
 [Joind.in Event Page][2]  
 
 
